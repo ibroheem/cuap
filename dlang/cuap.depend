@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1525155341 source:/media/60128FC5128F9EA2/usr/devs/cpp/utils/cuap/dlang/cuap/hello.d
+	<std/stdio.d>
+
